@@ -1,5 +1,5 @@
 {
-  "name": "pixitest",
+  "name": "dinogame-pixi",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -9,7 +9,7 @@
     "build_serve": "npm run build && http-server ./dist",
     "clean": "rimraf ./dist ./.cache"
   },
-  "author": "Llorenç Pujol Ferriol",
+  "author": "Josué Rubio",
   "license": "MIT",
   "dependencies": {
     "pixi.js": "~5.3.3"
